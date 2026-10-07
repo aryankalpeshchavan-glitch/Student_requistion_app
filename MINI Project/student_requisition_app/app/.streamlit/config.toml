@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#c8102e"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6fb"
+textColor = "#1b1f3b"
+font = "sans serif"
+
+[server]
+maxUploadSize = 10
+enableXsrfProtection = true
+
+[client]
+toolbarMode = "viewer"
+
+[browser]
+gatherUsageStats = false
