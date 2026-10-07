@@ -1,0 +1,11 @@
+DEPLOYMENT STATUS: NOT YET DEPLOYED
+
+No public application URL is configured in this project. A real deployment link can only be supplied after the app is connected to a hosting account and successfully deployed.
+
+Suggested option: Streamlit Community Cloud
+1. Push the project source to a GitHub repository.
+2. Create an app at https://share.streamlit.io and select the repository and app/app.py entry point (or the root app.py if this folder is the repository root).
+3. Add production staff credentials in the hosting platform's Secrets settings. Do not use the demo credentials.
+4. Deploy, open the generated app URL to verify it, then replace this note with that URL.
+
+For production requisition data, use a host with persistent storage and configure REQ_DATA_DIR accordingly. Community Cloud disk storage is ephemeral.
